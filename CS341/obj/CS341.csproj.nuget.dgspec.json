@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellio\\source\\repos\\cs341-team6\\CS341\\CS341.csproj": {}
+    "C:\\Users\\Nolan Rapp\\source\\repos\\cs341-team6\\CS341\\CS341.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellio\\source\\repos\\cs341-team6\\CS341\\CS341.csproj": {
+    "C:\\Users\\Nolan Rapp\\source\\repos\\cs341-team6\\CS341\\CS341.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellio\\source\\repos\\cs341-team6\\CS341\\CS341.csproj",
+        "projectUniqueName": "C:\\Users\\Nolan Rapp\\source\\repos\\cs341-team6\\CS341\\CS341.csproj",
         "projectName": "CS341",
-        "projectPath": "C:\\Users\\ellio\\source\\repos\\cs341-team6\\CS341\\CS341.csproj",
-        "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellio\\source\\repos\\cs341-team6\\CS341\\obj\\",
+        "projectPath": "C:\\Users\\Nolan Rapp\\source\\repos\\cs341-team6\\CS341\\CS341.csproj",
+        "packagesPath": "C:\\Users\\Nolan Rapp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nolan Rapp\\source\\repos\\cs341-team6\\CS341\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nolan Rapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
